@@ -39,4 +39,4 @@
   ansible.builtin.service:
     name: shipping
     state: restarted
-    eanbled: yes
+    enabled: yes
